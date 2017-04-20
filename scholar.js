@@ -1,4 +1,4 @@
-window.onload = loadResearchData;
+window.onload = initialize;
 
 var DATAFILE = "research.json";
 var DONE_READYSTATE = 4;
@@ -6,7 +6,21 @@ var DONE_STATUS = 200;
 
 var references = {};
 
-function loadResearchData()
+function initialize()
+{
+  validateHost();
+  loadExternalData();
+}
+
+function validateHost()
+{
+  if( window.location.hostname != "www.ecst.csuchico.edu" )
+  {
+    window.location.href = "https://www.ecst.csuchico.edu/~kbuffardi/";
+  }
+}
+
+function loadExternalData()
 {
   var json = new XMLHttpRequest();
   json.overrideMimeType("application/json");
