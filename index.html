@@ -1,33 +1,59 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
   <head>
+    <link rel="stylesheet" href="scholar.css">
+    <script src="scholar.js"></script>
     <link rel="stylesheet" href="./mdl/material.min.css">
     <script src="./mdl/material.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <meta name="author" content="Kevin Buffardi" />
+    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+    <meta name="description" 
+          content="Dr. Kevin Buffardi's academic website, describing his involvement in Computer Science, research, service." />
+    <meta name="keywords" 
+          content="Kevin Buffardi, Computer Science, Software Engineering, Computer Science Education, eLearning, HCI, usability, localized free and open source software (LFOSS), Tech Startup model" />
     <title>Dr. Kevin Buffardi</title>
+    <link rel="shortcut icon" href="favicon.ico" />
   </head>
   <body>
-    <!-- Simple header with fixed tabs. -->
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header mdl-layout--fixed-tabs">
       <header class="mdl-layout__header">
         <div class="mdl-layout__header-row">
           <span class="mdl-layout-title">Dr. Kevin Buffardi</span>
         </div>
         <div class="mdl-layout__tab-bar mdl-js-ripple-effect">
-          <a href="#fixed-tab-1" class="mdl-layout__tab is-active">Classes</a>
-          <a href="#fixed-tab-2" class="mdl-layout__tab">Research</a>
-          <a href="#fixed-tab-3" class="mdl-layout__tab">Service</a>
+          <a href="#tab-classes" class="mdl-layout__tab is-active"><i class="material-icons tab-icon">school</i> Classes</a>
+          <a href="#tab-research" class="mdl-layout__tab"><i class="material-icons tab-icon">trending_up</i> Research</a>
+          <a href="#tab-service" class="mdl-layout__tab"><i class="material-icons tab-icon">public</i> Service</a>
         </div>
       </header>
       <main class="mdl-layout__content">
-        <section class="mdl-layout__tab-panel is-active" id="fixed-tab-1">
-          <div class="page-content">Classes</div>
+        <section class="mdl-layout__tab-panel is-active" id="tab-classes">
+          <div class="page-content">
+            <div class="mdl-grid">
+              <div class="mdl-cell mdl-cell--8-col">Classes</div>
+            </div>
+          </div>
         </section>
-        <section class="mdl-layout__tab-panel" id="fixed-tab-2">
-          <div class="page-content">Research</div>
+        <section class="mdl-layout__tab-panel" id="tab-research">
+          <div class="page-content">
+            <div class="page-content">
+            <div class="mdl-grid">
+              <div class="mdl-cell mdl-cell--8-col">
+                Research
+              </div>
+            </div>
+          </div>
+          </div>
         </section>
-        <section class="mdl-layout__tab-panel" id="fixed-tab-3">
-          <div class="page-content">Service</div>
+        <section class="mdl-layout__tab-panel" id="tab-service">
+          <div class="page-content">
+            <div class="page-content">
+            <div class="mdl-grid">
+              <div class="mdl-cell mdl-cell--8-col">Service</div>
+            </div>
+          </div>
+          </div>
         </section>
       </main>
     </div>
