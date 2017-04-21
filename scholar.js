@@ -3,7 +3,8 @@ window.onload = initialize;
 var DATAFILE = "research.json";
 var DONE_READYSTATE = 4;
 var DONE_STATUS = 200;
-var OFFICIAL_URL = "https://www.ecst.csuchico.edu/~kbuffardi/";
+var OFFICIAL_URL = "www.ecst.csuchico.edu/~kbuffardi/";
+var OFFICIAL_HOST = "www.ecst.csuchico.edu"
 
 var references = {};
 
@@ -15,7 +16,7 @@ function initialize()
 
 function validateHost()
 {
-  if( window.location.hostname != "www.ecst.csuchico.edu" )
+  if( window.location.hostname != OFFICIAL_HOST )
   {
     window.location.href = OFFICIAL_URL;
   }
