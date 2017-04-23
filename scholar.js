@@ -10,7 +10,7 @@ var references = {};
 
 function initialize()
 {
-  //validateHost();
+  validateHost();
   loadExternalData();
 }
 
