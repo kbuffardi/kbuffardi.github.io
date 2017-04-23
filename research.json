@@ -2,18 +2,20 @@
 	"publications": {
 		"title": "Paper 1",
 		"authorList": ["Kevin Buffardi", "Colleen Robb", "David Rahn"]
-	}
+	},
 
   "presentations": {
-
-  }
+    "title": "Paper 1",
+    "authorList": ["Kevin Buffardi", "Colleen Robb", "David Rahn"]
+  },
 
   "awards": {
-
-  }
+    "title": "Paper 1",
+    "authorList": ["Kevin Buffardi", "Colleen Robb", "David Rahn"]
+  },
 
   "quotes": 
-    [{"text": "To be a teacher in the right sense is to be a learner. Instruction begins when you, the teacher, learn from the learner, put yourself in his place so that you may understand what he understands and in the way he understands it.",
+  [{"text": "To be a teacher in the right sense is to be a learner. Instruction begins when you, the teacher, learn from the learner, put yourself in his place so that you may understand what he understands and in the way he understands it.",
     "by": "Soren Kierkegaard",
     "in": "The Journals (1854)"
    },
@@ -53,5 +55,5 @@
     "by": "Bill Gates",
     "in": ""
    }
-  ];  
+  ]
 }
