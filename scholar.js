@@ -11,7 +11,7 @@ var references = {};
 function initialize()
 {
   validateHost();
-  loadExternalData();
+  //loadExternalData();
 }
 
 function validateHost()
