@@ -18,7 +18,7 @@ function validateHost()
 {
   if( window.location.hostname != OFFICIAL_HOST )
   {
-    window.location.href = OFFICIAL_URL;
+    //window.location.href = OFFICIAL_URL;
   }
 }
 
@@ -29,7 +29,7 @@ function loadExternalData()
   //event listener: when json file load is "done"
   json.onreadystatechange = function() {
     if (this.readyState == DONE_READYSTATE
-        && this.status == DONE_STATUS) 
+        && this.status == DONE_STATUS)
     {
       references=JSON.parse(this.responseText);
       console.log(references);
