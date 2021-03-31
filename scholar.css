@@ -9,13 +9,7 @@
   background-repeat: no-repeat;
   background-size: auto; /* 200px 200px;*/
 }
-.overlay {
-  background-color: rgba(0,0,0, 0.1);
-}
-.link-button {
-  -webkit-appearance: button;
-  -moz-appearance: button;
-  appearance: button;
-  text-decoration: none;
-  color: initial;
+a.calm {
+  color: rgb(33,150,243);
+  text-decoration: underline;
 }

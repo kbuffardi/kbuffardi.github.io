@@ -18,7 +18,7 @@ function validateHost()
 {
   if( window.location.hostname != OFFICIAL_HOST )
   {
-    //window.location.href = OFFICIAL_URL;
+    window.location.href = OFFICIAL_URL;
   }
 }
 
