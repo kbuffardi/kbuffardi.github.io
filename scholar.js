@@ -3,8 +3,8 @@ window.onload = initialize;
 var DATAFILE = "research.json";
 var DONE_READYSTATE = 4;
 var DONE_STATUS = 200;
-var OFFICIAL_URL = "http://www.ecst.csuchico.edu/~kbuffardi/";
-var OFFICIAL_HOST = "www.ecst.csuchico.edu"
+var OFFICIAL_URL = "https://kbuffardi.github.io/ScholarWebsite/";
+var OFFICIAL_HOST = "kbuffardi.github.io"
 
 var references = {};
 
