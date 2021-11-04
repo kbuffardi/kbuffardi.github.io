@@ -1,0 +1,59 @@
+{
+	"publications": {
+		"title": "Paper 1",
+		"authorList": ["Kevin Buffardi", "Colleen Robb", "David Rahn"]
+	},
+
+  "presentations": {
+    "title": "Paper 1",
+    "authorList": ["Kevin Buffardi", "Colleen Robb", "David Rahn"]
+  },
+
+  "awards": {
+    "title": "Paper 1",
+    "authorList": ["Kevin Buffardi", "Colleen Robb", "David Rahn"]
+  },
+
+  "quotes": 
+  [{"text": "To be a teacher in the right sense is to be a learner. Instruction begins when you, the teacher, learn from the learner, put yourself in his place so that you may understand what he understands and in the way he understands it.",
+    "by": "Soren Kierkegaard",
+    "in": "The Journals (1854)"
+   },
+   {"text": "The task of the teacher, who is also a learner, is both joyful and rigorous. It demands seriousness and scientific, physical, emotional, and affective preparation. It is a task that requires that those who commit themselves to teaching develop a certain love not only of others but also of the very process implied in teaching.",
+    "by": "Paulo Freire",
+    "in": "Teachers as Cultural Workers"
+   },
+   {"text": "It is impossible to teach without the courage of love, without the courage to try a thousand times before giving up.",
+    "by": "Paulo Freire",
+    "in": "Teachers as Cultural Workers"
+   },
+   {"text": "JHS was boss / not because of what you taught me / but because of what I learned / which was not what you taught me",
+    "by": "Victor Hernandez Cruz",
+    "in": "Papo Got His Gun (1967)"
+   },
+   {"text": "Not having heard something is not as good as having heard it; having heard it is not as good as having seen it; having seen it is not as good as knowing it; knowing it is not as good as putting it into practice.",
+    "by": "Xun Kuang, via Liu Xiang",
+    "in": "Xunzi (818)"
+   },
+   {"text": "Do outstanding minds differ from ordinary minds in any special way? I don't believe that there is anything basically different in a genius, except for having an unusual combination of abilities, none very special by itself.",
+    "by": "Marvin Minsky",
+    "in": "Why People Think Computers Can't (1982)"
+   },
+   {"text": "Learning is not the product of teaching. Learning is the product of the activity of learners.",
+    "by": "John Holt",
+    "in": "Growing Without Schooling, no. 40 (1984)"
+   },
+   {"text": "Society is to blame for not giving free education; it is responsible for the darkness it creates. The soul in darkness sins, but the sinner is he who caused the darkness.",
+    "by": "Victor Hugo",
+    "in": "Les Miserables"
+   },
+   {"text": "The most difficult subjects can be explained to the most slow-witted man if he has not formed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already, without a shadow of doubt, what is laid before him.",
+    "by": "Leo Tolstoy",
+    "in": "The Kingdom of God is Within You (1894)"
+   },
+   {"text": "Your most unhappy customers are your greatest source of learning",
+    "by": "Bill Gates",
+    "in": ""
+   }
+  ]
+}
