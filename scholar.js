@@ -3,8 +3,8 @@ window.onload = initialize;
 var DATAFILE = "research.json";
 var DONE_READYSTATE = 4;
 var DONE_STATUS = 200;
-var OFFICIAL_URL = "https://LearnByFailure.com";
-var OFFICIAL_HOST = "LearnByFailure.com"
+var OFFICIAL_URL = "http://learnbyfailure.com";
+var OFFICIAL_HOST = "learnbyfailure.com"
 
 var references = {};
 
