@@ -3,14 +3,14 @@ window.onload = initialize;
 var DATAFILE = "research.json";
 var DONE_READYSTATE = 4;
 var DONE_STATUS = 200;
-var OFFICIAL_URL = "https://kbuffardi.github.io/ScholarWebsite/";
-var OFFICIAL_HOST = "kbuffardi.github.io"
+var OFFICIAL_URL = "http://learnbyfailure.com";
+var OFFICIAL_HOST = "learnbyfailure.com"
 
 var references = {};
 
 function initialize()
 {
-  //validateHost();
+  validateHost();
   //loadExternalData();
 }
 
