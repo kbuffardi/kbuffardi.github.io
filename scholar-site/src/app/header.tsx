@@ -13,7 +13,8 @@ export function Header() {
       <div className="flex flex-row">
         <ul className="flex font-medium p-0 whitespace-nowrap rounded-lg space-x-12 mt-0">
           <li className="flex flex-auto place-items-center w-32 border-0">
-            <a href="/classes" className="flex flex-nowrap text-neutral-300 rounded border-0 hover:text-neutral-50">
+            <a href="/classes" 
+               className="flex flex-nowrap text-neutral-300 rounded border-0 hover:text-neutral-50">
               <AcademicCapIcon className='h-6 w-6 mr-1'/>Classes
             </a>
           </li>
