@@ -28,37 +28,37 @@ export default function Research() {
               <div className="flex-wrap text-gray-300">
                 <ul className="list-outside leading-loose">
                   <li>ICSE 2023:&nbsp;
-                    <a href="https://learnbyfailure.com/CognitiveReflection/"
+                    <a href="https://learnbyfailure.com/CognitiveReflection/" target="_blank"
                        className="font-semibold underline hover:font-bold">
                       Cognitive Reflection in Software Verification and Testing
                     </a>
                   </li>
                   <li>CCSC-SW 2023:&nbsp;
-                    <a href="https://learnbyfailure.com/CodeVid/"
+                    <a href="https://learnbyfailure.com/CodeVid/" target="_blank"
                        className="font-semibold underline hover:font-bold">
                       CodeVid Studio: Coding Videos with Multimodal Instruction
                     </a>
                   </li>
                   <li>Chico State Computer Science Seminar:&nbsp;
-                    <a href="https://learnbyfailure.com/the-other-crt/"
+                    <a href="https://learnbyfailure.com/the-other-crt/" target="_blank"
                        className="font-semibold underline hover:font-bold">
                       Software Engineering and “The other CRT”
                     </a>
                   </li>
                   <li>ITiCSE 2022:&nbsp;
-                    <a href="https://learnbyfailure.com/integrating-video/"
+                    <a href="https://learnbyfailure.com/integrating-video/" target="_blank"
                        className="font-semibold underline hover:font-bold">
                       Integrating Videos with Programming Practice
                     </a>
                   </li>
                   <li>SIGCSE 2022:&nbsp;
-                    <a href="https://learnbyfailure.com/sigcse2022-platform/"
+                    <a href="https://learnbyfailure.com/sigcse2022-platform/" target="_blank"
                        className="font-semibold underline hover:font-bold">
                       Codewit.us: A Platform for Diverse Perspectives in Coding
                     </a>
                   </li>
                   <li>CCSC-NW 2021:&nbsp;
-                    <a href="https://learnbyfailure.com/interests/"
+                    <a href="https://learnbyfailure.com/interests/" target="_blank"
                        className="font-semibold underline hover:font-bold">
                       Is Programming Relevant to CS1 Students&apos; Interests?
                     </a>
