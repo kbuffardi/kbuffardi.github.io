@@ -5,6 +5,6 @@ Academic website to represent teaching, research, and service activities for Pro
 
 ## Development
 
-To launch the development server locally, change directory into `scholar-site/` and run `rpm run dev`
+To launch the development server locally, run `rpm run dev`
 
 Open the server on [localhost](http://localhost:3000)
