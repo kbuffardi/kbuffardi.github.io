@@ -20,11 +20,7 @@ export default function Research() {
                   </a>.
                 </p>
               </div>
-            </div>
-          </div>
-          <div className="flex w-5/6 justify-center flex-wrap">
-            <div className="p-6 m-px bg-neutral-800 border border-neutral-700 rounded-lg shadow w-full">
-              <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 text-white">Recent Updates</h5>
+              <h5 className="mb-2 mt-4 text-2xl font-bold tracking-tight text-gray-900 text-white">Recent Updates</h5>
               <div className="flex-wrap text-gray-300">
                 <ul className="list-outside leading-loose">
                   <li>ICSE 2023:&nbsp;
