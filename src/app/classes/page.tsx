@@ -7,8 +7,8 @@ export default function Classes() {
       <main className="flex flex-wrap overflow-y-auto pt-20 p-2 w-full justify-center">
         <div className="flex w-5/6 justify-center flex-wrap">
           <div className="p-6 m-px bg-gray-800 border border-gray-700 rounded-lg shadow w-full">
-            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 text-white">Classes - Fall 2023</h5>
-            <div className="flex-wrap">
+            <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">Classes - Fall 2023</h5>
+            <div className="flex-wrap text-gray-300">
               <ul className="list-outside leading-loose">
                 <li>
                   <span className="font-black">CSCI 111</span>
@@ -28,8 +28,8 @@ export default function Classes() {
         </div>
         <div className="flex w-5/6 justify-center flex-wrap">
           <div className="p-6 m-px bg-gray-800 border border-gray-700 rounded-lg shadow w-full">
-            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 text-white">Recent Courses Taught</h5>
-              <div className="flex-wrap">
+            <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">Recent Courses Taught</h5>
+              <div className="flex-wrap text-gray-300">
                 <ul className="list-outside leading-loose">
                   <li>
                     <span className="font-black">CINS 110</span>

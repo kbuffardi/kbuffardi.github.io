@@ -20,12 +20,12 @@ export function Header() {
         <ul className="flex font-medium p-0 whitespace-nowrap rounded-lg space-x-12 mt-0">
           <li className="flex flex-auto place-items-center w-24 border-0">
             <a href="/classes" 
-               className={pathname == '/classes' ? 'flex flex-nowrap text-neutral-100 rounded border-0 underline' : "flex flex-nowrap text-neutral-300 rounded border-0 hover:text-neutral-50"}>
+               className={pathname == '/classes/' ? 'flex flex-nowrap text-neutral-100 rounded border-0 underline' : "flex flex-nowrap text-neutral-300 rounded border-0 hover:text-neutral-50"}>
               <AcademicCapIcon className='h-6 w-6 mr-1'/>Classes
             </a>
           </li>
           <li className="flex flex-auto place-items-center w-24 border-0">
-            <a href="/research" className={pathname == '/research' ? 'flex flex-nowrap text-neutral-100 rounded border-0 underline' : "flex flex-nowrap text-neutral-300 rounded border-0 hover:text-neutral-50"}>
+            <a href="/research" className={pathname == '/research/' ? 'flex flex-nowrap text-neutral-100 rounded border-0 underline' : "flex flex-nowrap text-neutral-300 rounded border-0 hover:text-neutral-50"}>
               <ChartBarIcon className='h-6 w-6 mr-1' />Research
             </a>
           </li>

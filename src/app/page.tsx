@@ -38,7 +38,7 @@ export default function Home() {
             </div>
             <div className="p-6 m-px bg-gray-800 border border-gray-700 rounded-lg shadow w-full">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 text-white">Office Hours (OCNL 220)</h5>
-              <div className="flex-wrap">
+              <div className="flex-wrap text-gray-300">
                 <p><span className="font-bold">Tuesday</span><span className="font-thin">&nbsp;12-2pm</span></p>
                 <p><span className="font-bold">Thursday</span><span className="font-thin">&nbsp;12-2pm</span></p>
                 <p>

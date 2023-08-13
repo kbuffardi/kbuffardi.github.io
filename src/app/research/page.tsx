@@ -10,7 +10,7 @@ export default function Research() {
           <div className="flex w-5/6 justify-center flex-wrap">
             <div className="p-6 m-px bg-gray-800 border border-gray-700 rounded-lg shadow w-full">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 text-white">Publications</h5>
-              <div className="flex-wrap">
+              <div className="flex-wrap text-gray-300">
                 <p>
                   For a full list of publications, see&nbsp;
                   <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwj8q7vI9_DVAhWJllQKHftqDa0QFggzMAI&url=http%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DKmIt5HIAAAAJ%26hl%3Den&usg=AFQjCNHsRa86mEiPAV9w_dnpTWxvfhJQng"
@@ -25,7 +25,7 @@ export default function Research() {
           <div className="flex w-5/6 justify-center flex-wrap">
             <div className="p-6 m-px bg-gray-800 border border-gray-700 rounded-lg shadow w-full">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 text-white">Recent Updates</h5>
-              <div className="flex-wrap">
+              <div className="flex-wrap text-gray-300">
                 <ul className="list-outside leading-loose">
                   <li>ICSE 2023:&nbsp;
                     <a href="https://learnbyfailure.com/CognitiveReflection/"
@@ -65,6 +65,13 @@ export default function Research() {
                   </li>
                 </ul>
               </div>
+            </div>
+          </div>
+          <div className="flex w-5/6 justify-center flex-wrap">
+            <div className="p-6 m-px bg-gray-800 border border-gray-700 rounded-lg shadow w-full">
+              <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">Active Projects</h5>
+              <p className="mb-2 text-lg font-medium tracking-tight text-gray-300">Research Areas</p>
+              <div className="flex-wrap"></div>
             </div>
           </div>
         </main> 
