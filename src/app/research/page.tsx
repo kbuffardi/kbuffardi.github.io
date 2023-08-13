@@ -8,7 +8,7 @@ export default function Research() {
         <header><Header /></header>
         <main className="flex flex-wrap overflow-y-auto pt-20 p-2 w-full justify-center">
           <div className="flex w-5/6 justify-center flex-wrap">
-            <div className="p-6 m-px bg-gray-800 border border-gray-700 rounded-lg shadow w-full">
+            <div className="p-6 m-px bg-neutral-800 border border-neutral-700 rounded-lg shadow w-full">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 text-white">Publications</h5>
               <div className="flex-wrap text-gray-300">
                 <p>
@@ -23,7 +23,7 @@ export default function Research() {
             </div>
           </div>
           <div className="flex w-5/6 justify-center flex-wrap">
-            <div className="p-6 m-px bg-gray-800 border border-gray-700 rounded-lg shadow w-full">
+            <div className="p-6 m-px bg-neutral-800 border border-neutral-700 rounded-lg shadow w-full">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 text-white">Recent Updates</h5>
               <div className="flex-wrap text-gray-300">
                 <ul className="list-outside leading-loose">
@@ -68,7 +68,7 @@ export default function Research() {
             </div>
           </div>
           <div className="flex w-5/6 justify-center flex-wrap">
-            <div className="p-6 m-px bg-gray-800 border border-gray-700 rounded-lg shadow w-full">
+            <div className="p-6 m-px bg-neutral-800 border border-neutral-700 rounded-lg shadow w-full">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">Active Projects</h5>
               <p className="mb-2 text-lg font-medium tracking-tight text-gray-300">Research Areas</p>
               <div className="flex-wrap"></div>
