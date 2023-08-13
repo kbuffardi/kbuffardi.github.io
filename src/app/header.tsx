@@ -11,7 +11,7 @@ export function Header() {
       <div className="max-w-screen-xl flex flex-row items-center p-2">
         <a href="/" className="flex items-center pr-1 {router.pathname == '/' ? 'active' : 'font-bold underline'}">
           <img src="/icon.png" className="h-12 w-12 mr-1" alt="Kevin Buffardi Logo" />
-          <span className={pathname == '/' ? "self-center text-xl font-semibold whitespace-nowrap text-neutral-100 underline" : "self-center text-xl font-semibold whitespace-nowrap text-neutral-300 hover:text-neutral-50"}>
+          <span className={pathname == '/' ? "min-w-0 overflow-x-hidden self-center text-xl font-semibold whitespace-nowrap text-neutral-100 underline" : "min-w-0 overflow-x-hidden self-center text-xl font-semibold whitespace-nowrap text-neutral-300 hover:text-neutral-50"}>
             Dr. Kevin Buffardi
           </span>
         </a>
@@ -20,12 +20,12 @@ export function Header() {
         <ul className="flex font-medium p-0 whitespace-nowrap rounded-lg space-x-1 mt-0">
           <li className="flex flex-auto place-items-center w-24 border-0">
             <a href="/classes" className={pathname == '/classes/' ? 'flex flex-nowrap text-neutral-100 rounded border-0 underline' : "flex flex-nowrap text-neutral-300 rounded border-0 hover:text-neutral-50"}>
-              <AcademicCapIcon className='h-6 w-6 mr-1'/><span className="min-w-0">Classes</span>
+              <AcademicCapIcon className='h-6 w-6 mr-1'/><span className="min-w-0 overflow-x-hidden">Classes</span>
             </a>
           </li>
           <li className="flex flex-auto place-items-center w-24 border-0">
             <a href="/research" className={pathname == '/research/' ? 'flex flex-nowrap text-neutral-100 rounded border-0 underline' : "flex flex-nowrap text-neutral-300 rounded border-0 hover:text-neutral-50"}>
-              <ChartBarIcon className='h-6 w-6 mr-1' /><span className="min-w-0">Research</span>
+              <ChartBarIcon className='h-6 w-6 mr-1' /><span className="min-w-0 overflow-x-hidden">Research</span>
             </a>
           </li>
         </ul>
