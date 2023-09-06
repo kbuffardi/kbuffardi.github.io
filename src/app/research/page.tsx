@@ -130,9 +130,12 @@ export default function Research() {
                 is an inclusive platform for sharing unique perspectives in learning how to code. 
                 Funded by <a href="https://calearninglab.org/project/coding-community-inclusive-space-for-programming-tutorials-and-adaptive-learning/" target="_blank" className="font-semibold underline hover:font-bold">
                   California Governor&apos;s Office of Planning and Research - Learning Lab (CELL)
-                </a> and&nbsp; 
+                </a>, 
                 <a href="https://www.csuchico.edu/coronavirus/federal-aid/index.shtml" target="_blank" className="font-semibold underline hover:font-bold">
                   Department of Education (DOE) Higher Education Emergency Relief Fund (HEERF II)
+                </a> and&nbsp;
+                <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2315883&HistoricalAwards=false" target="_blank" className="font-semibold underline hover:font-bold">
+                  National Science Foundation (NSF) Broadening Participation in Computing
                 </a>.
               </p>
 
