@@ -42,9 +42,9 @@ export default function Home() {
                 <p><span className="font-bold">Tuesday</span><span className="font-thin">&nbsp;12-2pm</span></p>
                 <p><span className="font-bold">Thursday</span><span className="font-thin">&nbsp;12-2pm</span></p>
                 <p>
-                  <a href="https://outlook.office.com/bookwithme/user/323bef193abc40cdb331abf40d27b9b0@csuchico.edu/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ep=mlink" target='_blank'>
+                  <a href="https://www.csuchico.edu/csci/faculty-office-hours/index.shtml" target='_blank'>
                     <button className="bg-neutral-800 hover:bg-neutral-700 text-gray-100 font-semibold py-2 px-4 border border-neutral-400 rounded shadow inline-flex items-center">
-                    <CalendarDaysIcon className='h-6 w-6 mr-1'/><span>Request another time</span>
+                    <CalendarDaysIcon className='h-6 w-6 mr-1'/><span>Live Updates</span>
                   </button>
                 </a>
                 </p>
