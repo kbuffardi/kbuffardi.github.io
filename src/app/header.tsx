@@ -8,7 +8,7 @@ export function Header() {
   return (
     <>
     <nav className="flex bg-neutral-900 fixed w-full top-0 left-0 border-b border-neutral-600">
-      <div className="max-w-screen-xl flex flex-row items-center p-2">
+      <div className="max-w-screen-xl flex flex-none items-center p-2">
         <a href="/" className="flex items-center pr-1 {router.pathname == '/' ? 'active' : 'font-bold underline'}">
           <img src="/icon.png" className="h-12 w-12 mr-1" alt="Kevin Buffardi Logo" />
           <span className={pathname == '/' ? "min-w-0 overflow-x-hidden self-center text-xl font-semibold whitespace-nowrap text-neutral-100 underline" : "min-w-0 overflow-x-hidden self-center text-xl font-semibold whitespace-nowrap text-neutral-300 hover:text-neutral-50"}>
