@@ -55,25 +55,23 @@ export default function Home() {
             <div className="p-6 m-0.5 bg-neutral-800 border border-neutral-700 rounded-lg shadow w-full">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 text-white">The <i>Learn by Failure</i> Philosophy</h5>
               <div className="flex-wrap text-neutral-300">
-                <p>Surely, you have heard that we should learn from failure. 
+                <p>You have likely heard that we should learn from failure. 
                    However, my philosophy on education is to learn <i>by</i> failure. 
                    Trying to learn from mistakes is not enough. Instead, we 
-                   must seek out failure. We need to push ourselves to explore the 
-                   unfamiliar and challenge ourselves with what makes us uncomfortable 
-                   so that we <i>try to fail</i> with the intent that we can reflect,
-                   practice, and learn to succeed at what we cannot yet do.
+                   must seek out failure.
                 </p>
+                <br/>
                 <p>An athlete does not get stronger by only exercising with weights they 
                     already know they can lift. Instead, they have to continually push 
                     themselves to lift heavier weights than they ever have before. 
+                    Similarly, a software tester must think critically to write tests 
+                    that they believe are likely to discover software faults.
                 </p>
-                <p>A software tester must think critically to write tests that they 
-                   believe are likely to break production code.
-                </p>
-                <p>Learning also requires that we seek out challenges that are likely 
-                   beyond our current abilities. By continually challenging ourselves
-                   intellectually, we actively pursue growth and empower lifelong 
-                   learning.
+                <br/>
+                <p>Accordingly, learning also requires that we seek out challenges that
+                   are likely beyond our current abilities. By continually challenging 
+                   ourselves intellectually, we actively pursue growth and empower 
+                   life-long learning.
                 </p>
               </div>
             </div>
