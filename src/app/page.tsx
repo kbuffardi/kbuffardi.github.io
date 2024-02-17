@@ -39,10 +39,8 @@ export default function Home() {
             <div className="p-6 m-0.5 bg-neutral-800 border border-neutral-700 rounded-lg shadow w-full">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 text-white">Office Hours (OCNL 220)</h5>
               <div className="flex-wrap text-neutral-300">
-                <p><span className="font-bold">Monday</span><span className="font-thin">&nbsp;3-4pm</span></p>
-                <p><span className="font-bold">Tuesday</span><span className="font-thin">&nbsp;11-12 noon</span></p>
-                <p><span className="font-bold">Wednesday</span><span className="font-thin">&nbsp;3-4pm</span></p>
-                <p><span className="font-bold">Thursday</span><span className="font-thin">&nbsp;11-12 noon</span></p>
+                <p><span className="font-bold">Monday/Wednesday</span><span className="font-thin">&nbsp;3-4pm</span></p>
+                <p><span className="font-bold">Tuesday/Thursday</span><span className="font-thin">&nbsp;11-12 noon</span></p>
                 <p>
                   <a href="https://www.csuchico.edu/csci/faculty-office-hours/index.shtml" target='_blank'>
                     <button className="bg-neutral-800 hover:bg-neutral-700 text-gray-100 font-semibold py-2 px-4 border border-neutral-400 rounded shadow inline-flex items-center">
@@ -55,23 +53,23 @@ export default function Home() {
             <div className="p-6 m-0.5 bg-neutral-800 border border-neutral-700 rounded-lg shadow w-full">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 text-white">The <i>Learn by Failure</i> Philosophy</h5>
               <div className="flex-wrap text-neutral-300">
-                <p>You have likely heard that we should learn from failure. 
-                   However, my philosophy on education is to learn <i>by</i> failure. 
-                   Trying to learn from mistakes is not enough. Instead, we 
-                   must seek out failure.
-                </p>
-                <br/>
-                <p>An athlete does not get stronger by only exercising with weights they 
-                    already know they can lift. Instead, they have to continually push 
-                    themselves to lift heavier weights than they ever have before. 
-                    Similarly, a software tester must think critically to write tests 
-                    that they believe are likely to discover software faults.
-                </p>
-                <br/>
-                <p>Accordingly, learning also requires that we seek out challenges that
-                   are likely beyond our current abilities. By continually challenging 
-                   ourselves intellectually, we actively pursue growth and empower 
-                   life-long learning.
+                <p>
+                  You have probably been told to learn <i>from</i> failure. However, 
+                  trying to learn from responding to mistakes is not enough. Instead,
+                  we must seek out where we can still grow and learn <i>by</i> failure.
+                </p><br/>
+                <p>
+                  An athlete does not get stronger by only exercising with weights they 
+                  can already lift. Instead, they have to continually push themselves to
+                  lift heavier weights than they ever have before. Similarly, a software
+                  tester must think critically to write tests that they believe are
+                  likely to discover software faults.
+                </p><br/>
+                <p>
+                  Accordingly, learning also requires that we seek out challenges that
+                  expand beyond what we are comfortable with. By continually challenging
+                  ourselves intellectually, we actively pursue growth and empower 
+                  life-long learning.
                 </p>
               </div>
             </div>
