@@ -13,16 +13,6 @@ export default function Classes() {
                 <li>
                   <span className="font-black">No summer classes</span>
                 </li>
-                <!--
-                <li>
-                  <span className="font-black">CSCI 431w</span>
-                  <span className="font-thin"> - Usability Engineering</span>
-                </li>
-                <li>
-                  <span className="font-black">CSCI 490</span>
-                  <span className="font-thin"> - Capstone</span>
-                </li>
-                -->
               </ul>
             </div>
           </div>
