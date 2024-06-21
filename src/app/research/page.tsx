@@ -23,6 +23,12 @@ export default function Research() {
               <h5 className="mb-2 mt-4 text-2xl font-bold tracking-tight text-gray-900 text-white">Recent Updates</h5>
               <div className="flex-wrap text-gray-300">
                 <ul className="list-outside leading-loose">
+                <li>ITiCSE 2024:&nbsp;
+                    <a href="https://learnbyfailure.com/designing-cure/" target="_blank"
+                       className="font-semibold underline hover:font-bold">
+                      Designing a CURE for CS1
+                    </a>
+                  </li>
                   <li>ICSE 2023:&nbsp;
                     <a href="https://learnbyfailure.com/CognitiveReflection/" target="_blank"
                        className="font-semibold underline hover:font-bold">
