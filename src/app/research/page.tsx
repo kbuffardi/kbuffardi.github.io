@@ -133,7 +133,7 @@ export default function Research() {
                 <a href="https://codewit.us/" target="_blank" className="font-semibold underline hover:font-bold">
                   Codewit.us
                 </a> 
-                is an inclusive platform for sharing unique perspectives in learning how to code. 
+                &nbsp; is an inclusive platform for sharing unique perspectives in learning how to code. 
                 Funded by <a href="https://calearninglab.org/project/coding-community-inclusive-space-for-programming-tutorials-and-adaptive-learning/" target="_blank" className="font-semibold underline hover:font-bold">
                   California Governor&apos;s Office of Planning and Research - Learning Lab (CELL)
                 </a>, 
@@ -144,7 +144,25 @@ export default function Research() {
                   National Science Foundation (NSF) Broadening Participation in Computing
                 </a>.
               </p>
-
+              <p className="m-0 text-base font-light text-gray-300 tracking-tight">
+                <a href="https://codewit.us/" target="_blank" className="font-semibold underline hover:font-bold">
+                  FRONTIERS
+                </a>
+                <span className="inline-block whitespace-nowrap rounded-full bg-indigo-400 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                  SE
+                </span>
+                <span className="inline-block whitespace-nowrap rounded-full bg-green-400 ml-1 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                  ED
+                </span>
+              </p>
+              <p>
+                &nbsp;Innovating valid, reliable, and practical assessments of individuals' contributions to team Software Engineering projects.
+                FRONTIERS is funded by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337271" target="_blank" className="font-semibold underline hover:font-bold">
+                  National Science Foundation (NSF) Improving Undergraduate STEM Education (IUSE)
+                </a>, featuring collaborations with <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337269" target="_blank" className="font-semibold underline hover:font-bold">Oregon State University</a>,
+                <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337270" target="_blank" className="font-semibold underline hover:font-bold">University of California Santa Barbara</a>, and
+                <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=233727" target="_blank" className="font-semibold underline hover:font-bold">Washington State University</a>.
+              </p>
               <p className="mt-4 text-lg font-bold tracking-tight">
                 CURE-E
                 <span className="inline-block whitespace-nowrap rounded-full bg-green-400 ml-1 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
