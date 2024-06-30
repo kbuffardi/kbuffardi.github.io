@@ -154,7 +154,7 @@ export default function Research() {
                 </span>
               </p>
               <p>
-                &nbsp;Innovating valid, reliable, and practical assessments of individuals&apos; contributions to team Software Engineering projects.
+                Innovating valid, reliable, and practical assessments of individuals&apos; contributions to team Software Engineering projects.
                 FRONTIERS is funded by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337271" target="_blank" className="font-semibold underline hover:font-bold">
                   National Science Foundation (NSF) Improving Undergraduate STEM Education (IUSE)
                 </a>, featuring collaborations with <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337269" target="_blank" className="font-semibold underline hover:font-bold">Oregon State University</a>,
