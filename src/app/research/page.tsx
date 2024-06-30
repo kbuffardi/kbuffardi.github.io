@@ -146,7 +146,7 @@ export default function Research() {
               </p>
               <p className="mt-4 text-lg font-bold tracking-tight">
                 FRONTIERS
-                <span className="inline-block whitespace-nowrap rounded-full bg-indigo-400 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                <span className="inline-block whitespace-nowrap rounded-full bg-indigo-400 ml-1 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
                   SE
                 </span>
                 <span className="inline-block whitespace-nowrap rounded-full bg-green-400 ml-1 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
