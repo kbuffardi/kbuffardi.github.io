@@ -144,10 +144,8 @@ export default function Research() {
                   National Science Foundation (NSF) Broadening Participation in Computing
                 </a>.
               </p>
-              <p className="m-0 text-base font-light text-gray-300 tracking-tight">
-                <a href="https://codewit.us/" target="_blank" className="font-semibold underline hover:font-bold">
-                  FRONTIERS
-                </a>
+              <p className="mt-4 text-lg font-bold tracking-tight">
+                FRONTIERS
                 <span className="inline-block whitespace-nowrap rounded-full bg-indigo-400 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
                   SE
                 </span>
