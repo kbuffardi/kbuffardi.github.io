@@ -158,8 +158,8 @@ export default function Research() {
                 FRONTIERS is funded by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337271" target="_blank" className="font-semibold underline hover:font-bold">
                   National Science Foundation (NSF) Improving Undergraduate STEM Education (IUSE)
                 </a>, featuring collaborations with <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337269" target="_blank" className="font-semibold underline hover:font-bold">Oregon State University</a>,
-                <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337270" target="_blank" className="font-semibold underline hover:font-bold">University of California Santa Barbara</a>, and
-                <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=233727" target="_blank" className="font-semibold underline hover:font-bold">Washington State University</a>.
+                &nbsp; <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337270" target="_blank" className="font-semibold underline hover:font-bold">University of California Santa Barbara</a>, and
+                &nbsp; <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=233727" target="_blank" className="font-semibold underline hover:font-bold">Washington State University</a>.
               </p>
               <p className="mt-4 text-lg font-bold tracking-tight">
                 CURE-E
