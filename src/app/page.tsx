@@ -39,7 +39,7 @@ export default function Home() {
             <div className="p-6 m-0.5 bg-neutral-800 border border-neutral-700 rounded-lg shadow w-full">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 text-white">Office Hours (OCNL 220)</h5>
               <div className="flex-wrap text-neutral-300">
-                <p><span className="font-bold">Fall 2024</span>></p>
+                <p><span className="font-bold">Fall 2024</span></p>
                 <p><span className="font-bold">Tuesday</span><span className="font-thin">&nbsp;11am-1pm</span></p>
                 <p><span className="font-bold">Thursday</span><span className="font-thin">&nbsp;11am-1pm</span></p>
                 <p>
