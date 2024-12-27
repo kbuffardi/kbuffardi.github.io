@@ -17,10 +17,22 @@ export default function Classes() {
                 <li>
                   <span className="font-black">CSCI 431w</span>
                   <span className="font-thin"> - Usability Engineering</span>
-                </li>             
+                </li>   
                 <li>
-                  <span className="font-black">CSCI 490</span>
-                  <span className="font-thin"> - Capstone</span>
+                  <span className="font-black">CSED 500</span>
+                  <span className="font-thin"> - Exploring Computer Science</span>
+                </li>
+                <li>
+                  <span className="font-black">CSED 510</span>
+                  <span className="font-thin"> - Technology for Computer Science Education</span>
+                </li>          
+                <li>
+                  <span className="font-black">CSED 511</span>
+                  <span className="font-thin"> - Computing in Society</span>
+                </li>
+                <li>
+                  <span className="font-black">CSCI 693</span>
+                  <span className="font-thin"> - Research Methods</span>
                 </li>
               </ul>
             </div>
