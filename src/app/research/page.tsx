@@ -23,13 +23,19 @@ export default function Research() {
               <h5 className="mb-2 mt-4 text-2xl font-bold tracking-tight text-gray-900 text-white">Recent Updates</h5>
               <div className="flex-wrap text-gray-300">
                 <ul className="list-outside leading-loose">
-                  <li>Guest Talk:&nbsp;
+                <li>Invited Talk:&nbsp;
+                    <a href="https://learnbyfailure.com/future-software-engineers/" target="_blank"
+                       className="font-semibold underline hover:font-bold">
+                      Preparing Future Software Engineers
+                    </a>
+                  </li>
+                  <li>Invited Talk:&nbsp;
                     <a href="https://learnbyfailure.com/thinking-accuracy/" target="_blank"
                        className="font-semibold underline hover:font-bold">
                       Measuring Unit Testing and Thinking Like a Tester
                     </a>
                   </li>
-                  <li>Seminar:&nbsp;
+                  <li>Invited Talk:&nbsp;
                     <a href="https://learnbyfailure.com/thinking-like-a-tester/" target="_blank"
                        className="font-semibold underline hover:font-bold">
                       Thinking Like a Tester
