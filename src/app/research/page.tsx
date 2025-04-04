@@ -38,13 +38,7 @@ export default function Research() {
                   <li>Invited Talk:&nbsp;
                     <a href="https://learnbyfailure.com/thinking-accuracy/" target="_blank"
                        className="font-semibold underline hover:font-bold">
-                      Measuring Unit Testing and Thinking Like a Tester
-                    </a>
-                  </li>
-                  <li>Invited Talk:&nbsp;
-                    <a href="https://learnbyfailure.com/thinking-like-a-tester/" target="_blank"
-                       className="font-semibold underline hover:font-bold">
-                      Thinking Like a Tester
+                      Measuring Unit Testing Accuracy and Thinking Like a Tester
                     </a>
                   </li>
                   <li>ITiCSE 2024:&nbsp;
