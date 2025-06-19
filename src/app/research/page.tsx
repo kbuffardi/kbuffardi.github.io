@@ -23,6 +23,12 @@ export default function Research() {
               <h5 className="mb-2 mt-4 text-2xl font-bold tracking-tight text-gray-900 text-white">Recent Updates</h5>
               <div className="flex-wrap text-gray-300">
                 <ul className="list-outside leading-loose">
+                  <li>ITiCSE 2025:&nbsp;
+                    <a href="https://learnbyfailure.com/chronicling/" target="_blank"
+                       className="font-semibold underline hover:font-bold">
+                      Chronicling Consistency and Parity of Contributions to Software Engineering Team Projects
+                    </a>
+                  </li>
                   <li>Invited Talk:&nbsp;
                     <a href="https://learnbyfailure.com/data-viz/" target="_blank"
                        className="font-semibold underline hover:font-bold">
