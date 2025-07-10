@@ -23,6 +23,12 @@ export default function Research() {
               <h5 className="mb-2 mt-4 text-2xl font-bold tracking-tight text-gray-900 text-white">Recent Updates</h5>
               <div className="flex-wrap text-gray-300">
                 <ul className="list-outside leading-loose">
+                  <li>CSTA 2025:&nbsp;
+                    <a href="https://docs.google.com/presentation/d/16KxNiD3m-t16y1hQdzWYgP-weF1tHdPvbHb6qCt_3W0/" target="_blank"
+                       className="font-semibold underline hover:font-bold">
+                      Integrating Diverse Representation, Relevance, and Equity in K–12 Computing Classes
+                    </a>
+                  </li>
                   <li>ITiCSE 2025:&nbsp;
                     <a href="https://learnbyfailure.com/chronicling/" target="_blank"
                        className="font-semibold underline hover:font-bold">
