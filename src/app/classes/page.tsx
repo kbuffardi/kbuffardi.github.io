@@ -7,24 +7,24 @@ export default function Classes() {
       <main className="flex flex-wrap overflow-y-auto pt-20 p-2 w-full justify-center">
         <div className="flex w-5/6 justify-center flex-wrap">
           <div className="p-6 m-0.5 bg-neutral-800 border border-neutral-700 rounded-lg shadow w-full">
-            <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">Classes - Summer 2025</h5>
+            <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">Classes - Fall 2025</h5>
             <div className="flex-wrap text-gray-300">
               <ul className="list-outside leading-loose">  
                 <li>
-                  <span className="font-black">CSED 500</span>
-                  <span className="font-thin"> - Exploring Computer Science</span>
+                  <span className="font-black">CSCI 430</span>
+                  <span className="font-thin"> - Software Engineering</span>
                 </li> 
                 <li>
-                  <span className="font-black">CSED 501</span>
-                  <span className="font-thin"> - Computer Science Principles</span>
+                  <span className="font-black">CSCI 431w</span>
+                  <span className="font-thin"> - Usability Engineering</span>
                 </li>
                 <li>
-                  <span className="font-black">CSED 510</span>
-                  <span className="font-thin"> - Technology for Computer Science Education</span>
+                  <span className="font-black">CSED 590</span>
+                  <span className="font-thin"> - Software Design, Data Structures, and Algorithms</span>
                 </li>
                 <li>
-                  <span className="font-black">CSED 511</span>
-                  <span className="font-thin"> - Computing in Society</span>
+                  <span className="font-black">CSCI 693</span>
+                  <span className="font-thin"> - Research Methods</span>
                 </li>
               </ul>
             </div>
@@ -66,6 +66,14 @@ export default function Classes() {
                   <li>
                     <span className="font-black">CSCI 499</span>
                     <span className="font-thin"> - Special Problems (Software Engineering)</span>
+                  </li>
+                  <li>
+                    <span className="font-black">CSED 500</span>
+                    <span className="font-thin"> - Exploring Computer Science</span>
+                  </li>
+                  <li>
+                    <span className="font-black">CSED 501</span>
+                    <span className="font-thin"> - Computer Science Principles</span>
                   </li>
                   <li>
                     <span className="font-black">CSED 510</span>
