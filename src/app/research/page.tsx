@@ -102,51 +102,51 @@ export default function Research() {
           <div className="flex w-5/6 justify-center flex-wrap">
             <div className="p-6 m-0.5 bg-neutral-800 border border-neutral-700 rounded-lg shadow w-full">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">Active Projects</h5>
-              <p className="mb-2 text-lg font-medium tracking-tight text-gray-300">
-                <span className="mr-2 font-normal">Research Area:</span>
-                <span className="flex-nowrap whitespace-nowrap">
+              <div className="mb-2 text-lg font-medium tracking-tight text-gray-300 flex flex-wrap items-center gap-2">
+                <span className="font-normal">Research Area:</span>
+                <span className="inline-flex items-center">
                   <span className="mr-1 font-light text-green-400">Computer Science Education</span>
-                  <span className="inline-block whitespace-nowrap rounded-full bg-green-400 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                  <span className="inline-block whitespace-nowrap rounded-full bg-green-400 ml-1 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
                     ED
                   </span>
                 </span>
-                <span className="flex-nowrap whitespace-nowrap">
+                <span className="inline-flex items-center">
                   <span className="mr-1 font-light text-amber-500">Broadening Participation</span>
-                  <span className="inline-block whitespace-nowrap rounded-full bg-amber-500 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                  <span className="inline-block whitespace-nowrap rounded-full bg-amber-500 ml-1 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
                     BP
                   </span>
                 </span>
-                <span className="flex-nowrap whitespace-nowrap">
+                <span className="inline-flex items-center">
                   <span className="mr-1 font-light text-sky-400">Adaptive Feedback</span>
-                  <span className="inline-block whitespace-nowrap rounded-full bg-sky-400 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                  <span className="inline-block whitespace-nowrap rounded-full bg-sky-400 ml-1 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
                     AF
                   </span>
                 </span>
-                <span className="flex-nowrap whitespace-nowrap">
+                <span className="inline-flex items-center">
                   <span className="mr-1 font-light text-red-600">Software Testing</span>
-                  <span className="inline-block whitespace-nowrap rounded-full bg-red-600 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                  <span className="inline-block whitespace-nowrap rounded-full bg-red-600 ml-1 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
                     ST
                   </span>
                 </span>
-                <span className="flex-nowrap whitespace-nowrap">
+                <span className="inline-flex items-center">
                   <span className="mr-1 font-light text-indigo-400">Software Engineering</span>
-                  <span className="inline-block whitespace-nowrap rounded-full bg-indigo-400 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                  <span className="inline-block whitespace-nowrap rounded-full bg-indigo-400 ml-1 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
                     SE
                   </span>
                 </span>
-                <span className="flex-nowrap whitespace-nowrap">
+                <span className="inline-flex items-center">
                   <span className="mr-1 font-light text-pink-600">Usability &amp; User eXperience</span>
-                  <span className="inline-block whitespace-nowrap rounded-full bg-pink-600 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                  <span className="inline-block whitespace-nowrap rounded-full bg-pink-600 ml-1 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
                     UX
                   </span>
                 </span>
-                <span className="flex-nowrap whitespace-nowrap">
+                <span className="inline-flex items-center">
                   <span className="mr-1 font-light text-lime-200">Entrepreneurship</span>
-                  <span className="inline-block whitespace-nowrap rounded-full bg-lime-200 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                  <span className="inline-block whitespace-nowrap rounded-full bg-lime-200 ml-1 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
                     EN
                   </span>
                 </span>
-              </p>
+              </div>
               <p className="mt-4 text-lg font-bold tracking-tight">
                 Codewit.us
                 <span className="inline-block whitespace-nowrap rounded-full bg-green-400 ml-1 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
