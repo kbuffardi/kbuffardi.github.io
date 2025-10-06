@@ -23,6 +23,18 @@ export default function Research() {
               <h5 className="mb-2 mt-4 text-2xl font-bold tracking-tight text-gray-900 text-white">Recent Updates</h5>
               <div className="flex-wrap text-gray-300">
                 <ul className="list-outside leading-loose">
+                  <li>CCSC-NW 2025:&nbsp;
+                    <a href="https://learnbyfailure.com/gitdash-ccsc25/" target="_blank"
+                       className="font-semibold underline hover:font-bold">
+                      GitDash: A Data-Driven Dashboard for Monitoring Team Progress in Software Engineering Education
+                    </a>
+                  </li>
+                  <li>CCSC-NW 2025:&nbsp;
+                    <a href="https://docs.google.com/presentation/d/1V9HmKCRIuaaFRrMV87Yv-iEQzJTEdziF2bnitsT7JfQ/edit?usp=sharing" target="_blank"
+                       className="font-semibold underline hover:font-bold">
+                      Expanding Applications of Programming with Peer-Instructor Video Tutorials
+                    </a>
+                  </li>
                   <li>CSTA 2025:&nbsp;
                     <a href="https://docs.google.com/presentation/d/16KxNiD3m-t16y1hQdzWYgP-weF1tHdPvbHb6qCt_3W0/" target="_blank"
                        className="font-semibold underline hover:font-bold">
