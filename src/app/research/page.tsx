@@ -116,46 +116,48 @@ export default function Research() {
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">Active Projects</h5>
               <p className="mb-2 text-lg font-medium tracking-tight text-gray-300">
                 <span className="mr-2 font-normal">Research Area:</span>
-                <span className="flex-nowrap whitespace-nowrap">
-                  <span className="mr-1 font-light text-green-400">Computer Science Education</span>
-                  <span className="inline-block whitespace-nowrap rounded-full bg-green-400 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
-                    ED
+                <span className="flex flex-wrap gap-x-2 gap-y-1 min-w-0 align-middle">
+                  <span className="flex-nowrap whitespace-nowrap">
+                    <span className="mr-1 font-light text-green-400">Computer Science Education</span>
+                    <span className="inline-block whitespace-nowrap rounded-full bg-green-400 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                      ED
+                    </span>
                   </span>
-                </span>
-                <span className="flex-nowrap whitespace-nowrap">
-                  <span className="mr-1 font-light text-amber-500">Broadening Participation</span>
-                  <span className="inline-block whitespace-nowrap rounded-full bg-amber-500 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
-                    BP
+                  <span className="flex-nowrap whitespace-nowrap">
+                    <span className="mr-1 font-light text-amber-500">Broadening Participation</span>
+                    <span className="inline-block whitespace-nowrap rounded-full bg-amber-500 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                      BP
+                    </span>
                   </span>
-                </span>
-                <span className="flex-nowrap whitespace-nowrap">
-                  <span className="mr-1 font-light text-sky-400">Adaptive Feedback</span>
-                  <span className="inline-block whitespace-nowrap rounded-full bg-sky-400 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
-                    AF
+                  <span className="flex-nowrap whitespace-nowrap">
+                    <span className="mr-1 font-light text-sky-400">Adaptive Feedback</span>
+                    <span className="inline-block whitespace-nowrap rounded-full bg-sky-400 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                      AF
+                    </span>
                   </span>
-                </span>
-                <span className="flex-nowrap whitespace-nowrap">
-                  <span className="mr-1 font-light text-red-600">Software Testing</span>
-                  <span className="inline-block whitespace-nowrap rounded-full bg-red-600 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
-                    ST
+                  <span className="flex-nowrap whitespace-nowrap">
+                    <span className="mr-1 font-light text-red-600">Software Testing</span>
+                    <span className="inline-block whitespace-nowrap rounded-full bg-red-600 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                      ST
+                    </span>
                   </span>
-                </span>
-                <span className="flex-nowrap whitespace-nowrap">
-                  <span className="mr-1 font-light text-indigo-400">Software Engineering</span>
-                  <span className="inline-block whitespace-nowrap rounded-full bg-indigo-400 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
-                    SE
+                  <span className="flex-nowrap whitespace-nowrap">
+                    <span className="mr-1 font-light text-indigo-400">Software Engineering</span>
+                    <span className="inline-block whitespace-nowrap rounded-full bg-indigo-400 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                      SE
+                    </span>
                   </span>
-                </span>
-                <span className="flex-nowrap whitespace-nowrap">
-                  <span className="mr-1 font-light text-pink-600">Usability &amp; User eXperience</span>
-                  <span className="inline-block whitespace-nowrap rounded-full bg-pink-600 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
-                    UX
+                  <span className="flex-nowrap whitespace-nowrap">
+                    <span className="mr-1 font-light text-pink-600">Usability &amp; User eXperience</span>
+                    <span className="inline-block whitespace-nowrap rounded-full bg-pink-600 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                      UX
+                    </span>
                   </span>
-                </span>
-                <span className="flex-nowrap whitespace-nowrap">
-                  <span className="mr-1 font-light text-lime-200">Entrepreneurship</span>
-                  <span className="inline-block whitespace-nowrap rounded-full bg-lime-200 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
-                    EN
+                  <span className="flex-nowrap whitespace-nowrap">
+                    <span className="mr-1 font-light text-lime-200">Entrepreneurship</span>
+                    <span className="inline-block whitespace-nowrap rounded-full bg-lime-200 ml-1 mr-2 px-[0.65em] pb-[0.25em] pt-[0.35em] text-center align-baseline text-[0.75em] font-bold leading-none text-black">
+                      EN
+                    </span>
                   </span>
                 </span>
               </p>
