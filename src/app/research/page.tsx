@@ -23,6 +23,12 @@ export default function Research() {
               <h5 className="mb-2 mt-4 text-2xl font-bold tracking-tight text-gray-900 text-white">Recent Updates</h5>
               <div className="flex-wrap text-gray-300">
                 <ul className="list-outside leading-loose">
+                  <li>HICSS 2026:&nbsp;
+                    <a href="https://docs.google.com/presentation/d/1qCsA3_b3ecVda7iy-kpqqd9-k-9al4LoU7ZafhbgttY/edit?usp=sharing" target="_blank"
+                       className="font-semibold underline hover:font-bold">
+                      Investigating the Pareto Principle in Student Software Engineering Team Projects
+                    </a>
+                  </li>
                   <li>CCSC-NW 2025:&nbsp;
                     <a href="https://learnbyfailure.com/gitdash-ccsc25/" target="_blank"
                        className="font-semibold underline hover:font-bold">
