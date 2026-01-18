@@ -40,7 +40,9 @@ export default function Home() {
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 text-white">Office Hours (OCNL 220)</h5>
               <div className="flex-wrap text-neutral-300">
                 <p><span className="font-bold">Spring 2026</span></p>
-                <p>Office hours to be announced. Email requests in the time being.</p>
+                <p><b>Monday</b>: 2-4pm</p>
+                <p><b>Thursday</b>: 2-4pm</p>
+                <p><a href="https://wiki.charon.click/#faculty-office-hours">Live Updates</a></p>
               </div>
             </div>
             <div className="p-6 m-0.5 bg-neutral-800 border border-neutral-700 rounded-lg shadow w-full">
