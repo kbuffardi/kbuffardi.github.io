@@ -42,7 +42,7 @@ export default function Home() {
                 <p><span className="font-bold">Spring 2026</span></p>
                 <p><b>Monday</b>: 2-4pm</p>
                 <p><b>Thursday</b>: 2-4pm</p>
-                <p><a href="https://wiki.charon.click/#faculty-office-hours">Live Updates</a></p>
+                <p><u><a href="https://wiki.charon.click/#faculty-office-hours">Live Updates</a></u></p>
               </div>
             </div>
             <div className="p-6 m-0.5 bg-neutral-800 border border-neutral-700 rounded-lg shadow w-full">
