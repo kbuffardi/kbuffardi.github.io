@@ -19,6 +19,11 @@ export default function Research() {
                     Dr. Kevin Buffardi&apos;s Google Scholar profile
                   </a>.
                 </p>
+                <p>
+                  View <a href="https://learnbyfailure.com/cv/buffardi-curriculum-vitae.pdf" className="font-semibold underline hover:font-bold" target="_blank">
+                    Dr. Buffardi&apos;s latest Curriculum Vitae (CV)
+                  </a>.
+                </p>
               </div>
               <h5 className="mb-2 mt-4 text-2xl font-bold tracking-tight text-gray-900 text-white">Recent Updates</h5>
               <div className="flex-wrap text-gray-300">
