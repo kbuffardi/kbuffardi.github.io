@@ -28,6 +28,12 @@ export default function Research() {
               <h5 className="mb-2 mt-4 text-2xl font-bold tracking-tight text-gray-900 text-white">Recent Updates</h5>
               <div className="flex-wrap text-gray-300">
                 <ul className="list-outside leading-loose">
+                  <li>Invited Talk:&nbsp;
+                    <a href="https://docs.google.com/presentation/d/1NpcZFgLrqlR1Oa1-Z23M2cBjrgM7G3jL8RfZuDDoEak/edit?usp=sharing" target="_blank"
+                       className="font-semibold underline hover:font-bold">
+                      Cognitive Reflection Research in Software Engineering
+                    </a>
+                  </li>
                   <li>HICSS 2026:&nbsp;
                     <a href="https://docs.google.com/presentation/d/1qCsA3_b3ecVda7iy-kpqqd9-k-9al4LoU7ZafhbgttY/edit?usp=sharing" target="_blank"
                        className="font-semibold underline hover:font-bold">
