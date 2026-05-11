@@ -5,6 +5,7 @@ import { AcademicCapIcon, ChartBarIcon } from '@heroicons/react/24/outline'
 
 export function Header() {
   const pathname = usePathname()
+  const navLabelBaseClass = 'min-w-0 overflow-x-hidden'
   return (
     <>
     <nav className="flex bg-neutral-900 fixed w-full top-0 left-0 border-b border-neutral-600">
@@ -21,7 +22,7 @@ export function Header() {
         <ul className="flex font-medium p-0 whitespace-nowrap rounded-lg space-x-1 mt-0">
           <li className="flex flex-auto place-items-center border-0 mx-1">
             <a href="/classes" className={pathname == '/classes/' ? 'flex flex-nowrap text-neutral-100 rounded border-0 underline' : "flex flex-nowrap text-neutral-300 rounded border-0 hover:text-neutral-50"}>
-              <AcademicCapIcon className='h-6 w-6 mr-1'/><span className="min-w-0 overflow-x-hidden sm:hidden">Class</span><span className="min-w-0 overflow-x-hidden hidden sm:inline">Classes</span>
+              <AcademicCapIcon className='h-6 w-6 mr-1'/><span className={`${navLabelBaseClass} sm:hidden`}>Class</span><span className={`${navLabelBaseClass} hidden sm:inline`}>Classes</span>
             </a>
           </li>
           <li className="flex flex-auto place-items-center border-0  mx-1">
