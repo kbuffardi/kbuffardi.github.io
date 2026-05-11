@@ -12,7 +12,8 @@ export function Header() {
         <a href="/" className="flex flex-none items-center mr-0.5 {router.pathname == '/' ? 'active' : 'font-bold underline'}">
           <img src="/icon.png" className="h-12 w-12 mr-0.5" alt="Kevin Buffardi Logo" />
           <span className={pathname == '/' ? "min-w-0 overflow-x-hidden self-center text-xl font-semibold whitespace-nowrap text-neutral-100 underline" : "min-w-0 overflow-x-hidden self-center text-xl font-semibold whitespace-nowrap text-neutral-300 hover:text-neutral-50"}>
-            Dr. Kevin Buffardi
+            <span className="sm:hidden">Buffardi</span>
+            <span className="hidden sm:inline">Dr. Kevin Buffardi</span>
           </span>
         </a>
       </div>
@@ -20,7 +21,7 @@ export function Header() {
         <ul className="flex font-medium p-0 whitespace-nowrap rounded-lg space-x-1 mt-0">
           <li className="flex flex-auto place-items-center border-0 mx-1">
             <a href="/classes" className={pathname == '/classes/' ? 'flex flex-nowrap text-neutral-100 rounded border-0 underline' : "flex flex-nowrap text-neutral-300 rounded border-0 hover:text-neutral-50"}>
-              <AcademicCapIcon className='h-6 w-6 mr-1'/><span className="min-w-0 overflow-x-hidden">Classes</span>
+              <AcademicCapIcon className='h-6 w-6 mr-1'/><span className="min-w-0 overflow-x-hidden"><span className="sm:hidden">Class</span><span className="hidden sm:inline">Classes</span></span>
             </a>
           </li>
           <li className="flex flex-auto place-items-center border-0  mx-1">
