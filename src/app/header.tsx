@@ -21,7 +21,7 @@ export function Header() {
         <ul className="flex font-medium p-0 whitespace-nowrap rounded-lg space-x-1 mt-0">
           <li className="flex flex-auto place-items-center border-0 mx-1">
             <a href="/classes" className={pathname == '/classes/' ? 'flex flex-nowrap text-neutral-100 rounded border-0 underline' : "flex flex-nowrap text-neutral-300 rounded border-0 hover:text-neutral-50"}>
-              <AcademicCapIcon className='h-6 w-6 mr-1'/><span className="min-w-0 overflow-x-hidden"><span className="sm:hidden">Class</span><span className="hidden sm:inline">Classes</span></span>
+              <AcademicCapIcon className='h-6 w-6 mr-1'/><span className="min-w-0 overflow-x-hidden sm:hidden">Class</span><span className="min-w-0 overflow-x-hidden hidden sm:inline">Classes</span>
             </a>
           </li>
           <li className="flex flex-auto place-items-center border-0  mx-1">
