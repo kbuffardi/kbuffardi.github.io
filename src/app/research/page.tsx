@@ -28,6 +28,12 @@ export default function Research() {
               <h5 className="mb-2 mt-4 text-2xl font-bold tracking-tight text-gray-900 text-white">Recent Updates</h5>
               <div className="flex-wrap text-gray-300">
                 <ul className="list-outside leading-loose">
+                  <li>ASEE 2026:&nbsp;
+                    <a href="https://learnbyfailure.com/reflections-asee2026/" target="_blank"
+                       className="font-semibold underline hover:font-bold">
+                      Student Reflections on Relating Programming Concepts to Their Lives in Worked Example Videos
+                    </a>
+                  </li>
                   <li>Invited Talk:&nbsp;
                     <a href="https://docs.google.com/presentation/d/1NpcZFgLrqlR1Oa1-Z23M2cBjrgM7G3jL8RfZuDDoEak/edit?usp=sharing" target="_blank"
                        className="font-semibold underline hover:font-bold">
