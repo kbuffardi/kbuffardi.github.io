@@ -28,6 +28,12 @@ export default function Research() {
               <h5 className="mb-2 mt-4 text-2xl font-bold tracking-tight text-gray-900 text-white">Recent Updates</h5>
               <div className="flex-wrap text-gray-300">
                 <ul className="list-outside leading-loose">
+                  <li>CSEE&amp;T 2026:&nbsp;
+                    <a href="https://learnbyfailure.com/DORA-CSEET-2026/" target="_blank"
+                       className="font-semibold underline hover:font-bold">
+                      Reconciling DORA Metrics for Educational Projects on GitHub
+                    </a>
+                  </li>
                   <li>ASEE 2026:&nbsp;
                     <a href="https://learnbyfailure.com/reflections-asee2026/" target="_blank"
                        className="font-semibold underline hover:font-bold">
