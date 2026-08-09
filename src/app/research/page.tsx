@@ -29,9 +29,10 @@ export default function Research() {
               <div className="flex-wrap text-gray-300">
                 <ul className="list-outside leading-loose">
                   <li>CSEE&amp;T 2026:&nbsp;
-                    <span className="font-semibold underline hover:font-bold">
+                    <a href="https://cseet26.techconf.org/track/award" target="_blank"
+                       className="font-semibold underline hover:font-bold">
                       What Makes A Good Commit? A Delphi Study
-                    </span> - <i>Best Paper Award</i>
+                    </a> - <i>Best Paper Award</i>
                   </li>
                   <li>CSEE&amp;T 2026:&nbsp;
                     <a href="https://learnbyfailure.com/DORA-CSEET-2026/" target="_blank"
